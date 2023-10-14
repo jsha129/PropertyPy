@@ -42,7 +42,7 @@ Specifically, we will be using the following API: https://developer.domain.com.a
 
 General API info: https://developer.domain.com.au
 
-Please play with this and `1_get_yearly_data.ipynb` to get successful authentication.
+Please play with this and `get_yearly_data.ipynb` to get successful authentication.
 
 
 (2) Latitudes and longitudes of suburb postcodes. `Australian_Post_Codes_Lat_Lon.csv` - bit outdated, but still OK. This was downloaded from Australia post (https://auspost.com.au).
