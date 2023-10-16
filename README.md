@@ -14,9 +14,9 @@ Property type of 'House' with 3 or 4 bedrooms have been used here for example, b
 
 # How to use this
 
-**For visulisation only, open html files.** Property and rental growth rate by dwelling types have been exported as Excel files. 
+**For visulisation only, download this repo as zip file and open relevant html files.** 
 
-- 3 bedroom houses in Melbourne (html): calculate_rates_and_visualise_3bd_Houses_Melbourne.html or google drive link: https://drive.google.com/file/d/1YJsuG8N5PUP9X1chvRvCHhjY_VVxwEnn/view?usp=sharing
+- 3 bedroom houses in Melbourne (html): calculate_rates_and_visualise_3bd_Houses_Melbourne.html 
 
 To run this on your local computer from scratch:
 
