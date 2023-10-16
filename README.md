@@ -16,9 +16,13 @@ Property type of 'House' with 3 or 4 bedrooms have been used here for example, b
 
 **For visulisation only, download this repo as zip file (scroll up, click on 'Code' green button and download as zip) and open relevant html files.** 
 
-- 3 bedroom houses in Melbourne (html): calculate_rates_and_visualise_3bd_Houses_Melbourne.html 
+- 3 bedroom houses in Melbourne (html): calculate_rates_and_visualise_3bd_Houses_Melbourne.html
 
-To run this on your local computer from scratch:
+  (snapshot of the above html page below) 
+
+![3bd_House_Melb.png](https://github.com/jsha129/PropertyPy/blob/498386efb26ea37d9a73addfdb7274a73458b97e/3bd_House_Melb.png?raw=true)
+
+## To run this on your local computer from scratch:
 
 (1) Get your access token to the Domain API and mapbox.
 
