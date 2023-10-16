@@ -14,7 +14,7 @@ Property type of 'House' with 3 or 4 bedrooms have been used here for example, b
 
 # How to use this
 
-**For visulisation only, download this repo as zip file and open relevant html files.** 
+**For visulisation only, download this repo as zip file (scroll up, click on 'Code' green button and download as zip) and open relevant html files.** 
 
 - 3 bedroom houses in Melbourne (html): calculate_rates_and_visualise_3bd_Houses_Melbourne.html 
 
